@@ -45,6 +45,7 @@ int main()
             else if(check==N)
                 event_3 = 0;
         }
+        //aaaa
         cout << event_1+event_2+event_3 + event_4 << endl;
     }
 }
